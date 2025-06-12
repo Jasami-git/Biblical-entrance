@@ -1,4 +1,5 @@
-Biblical entrance https://biblical-entrance.vercel.app/
+## Aptos Build Mint Page
+# Biblical Entrance https://biblical-entrance.vercel.app/
 0x4df8f4ba5aa5710b5cdeecfa577c6c18b1edf3020a072468f6a3a9c343c7543b
 #KEY #Biblical entrance From the intricate details of the mosaics to the striking colors of the icons, this creative prompt captures the essence of a biblical entrance in a modern and captivating way, sure to inspire endless variations and styles in the AI-generated image.
 
